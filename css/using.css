@@ -17,7 +17,7 @@ body {
     background-color: white;
 }
 
-/*colors*/
+
 .cblue {
     color: RGB(24, 119, 242);
 }
@@ -34,7 +34,7 @@ body {
     color: white;
 }
 
-/*fonts*/
+
 
 .font1 {
     font-weight: 700;
@@ -59,7 +59,7 @@ a {
     text-decoration: none;
 }
 
-/*mp*/
+
 
 .centered {
     margin-left: 40%;
@@ -115,7 +115,7 @@ a {
     float: left;
 }
 
-/*display*/
+
 .displayblock {
     display: block;
 }
@@ -125,7 +125,7 @@ a {
 }
 
 
-/*inputs*/
+
 .w40 {
     width: 40%;
 }
@@ -190,11 +190,3 @@ a {
     color: blueviolet;
     visibility: hidden;
 }
-
-/* .q1:hover+.hide {
-    visibility: hidden;
-}
-
-.q2:hover+.hide {
-    visibility: visible;
-} */
